@@ -1,8 +1,11 @@
 .container {
   width: 80vw;
-  height: 90vh;
-  margin: 0 auto;
+  height: 130px;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  align-items: center;
+}
+
+.fotoPerfil {
+  width: 150px;
 }
